@@ -12,7 +12,7 @@ npm run build
 # this command runs the linter
 npm run lint
 
-# this command runs the tests. this is the primary way to verify validity of the solution
+# this command runs the tests. this is the primary way to verify the TicTacToc class methods' logic
 npm run test
 
 # this command runs the TicTacToe class using tsx. right now there are no outputs, this should not return anything
